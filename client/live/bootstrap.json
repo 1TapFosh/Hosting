@@ -78,13 +78,13 @@
   ],
   "artifacts": [
     {
-      "hash": "b886e8a95383f62472cd36c3b239ecae71b11627b47d191c0e5df7ab461f9b6c",
+      "hash": "0d60414c12a6341bcc76933f593e4bde2f3066dba1e626281305c7e2c3751188",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/1TapFosh/hosting/raw/master/client/live/repo/game-0.0.1.jar",
-      "size": 9540678
+      "size": 9542302
     },
     {
-      "hash": "012ed47f43b45df0cdf491ff7789f4af8448fc6a6ab36276a583f810f5e9d322",
+      "hash": "015a54cfed0ad870242c483001f72d051adb8542a396669eac5155be2f3de157",
       "name": "runelite-0.0.1.jar",
       "path": "https://github.com/1TapFosh/hosting/raw/master/client/live/repo/runelite-0.0.1.jar",
       "size": 3114692
@@ -844,8 +844,8 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "b886e8a95383f62472cd36c3b239ecae71b11627b47d191c0e5df7ab461f9b6c",
-    "runelite-0.0.1.jar": "012ed47f43b45df0cdf491ff7789f4af8448fc6a6ab36276a583f810f5e9d322",
+    "game-0.0.1.jar": "0d60414c12a6341bcc76933f593e4bde2f3066dba1e626281305c7e2c3751188",
+    "runelite-0.0.1.jar": "015a54cfed0ad870242c483001f72d051adb8542a396669eac5155be2f3de157",
     "jpackage-maven-plugin-0.1.5.jar": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
     "rs-cache-library-7.1.1.jar": "e9d5cc0169e447c4028d9d5f9c73c93d3412e0aeee5fcbe1509497bb56d2e083",
     "guice-5.0.1.jar": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
