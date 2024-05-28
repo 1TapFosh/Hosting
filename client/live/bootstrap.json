@@ -228,7 +228,7 @@
       "size": 2654933
     },
     {
-      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+      "hash": "187ce9ddabfa7cd83447ccf9c166018aa7d2519c334942d91e33b3aaf24b53c7",
       "name": "substance-8.0.02.jar",
       "path": "",
       "size": 1589195
@@ -813,7 +813,7 @@
     "slf4j-api-2.0.11.jar": "ce0e71d673acb9036bb55d0244b261cf033f8e4c1245f14f931dfb1937dd4c95",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
-    "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+    "substance-8.0.02.jar": "187ce9ddabfa7cd83447ccf9c166018aa7d2519c334942d91e33b3aaf24b53c7",
     "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
     "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
