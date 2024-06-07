@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "dd35bc551f65d7d6915d7ae287487c450a2201b44d5da7871a4ace9cf62a3c5a",
+      "hash": "a16d2520d21fb9517ab0a2200b777368dafc8c27c3ce48031ae407b7b11cb43f",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/1TapFosh/hosting/raw/master/client/live/repo/game-0.0.1.jar",
-      "size": 9542307
+      "size": 8835369
     },
     {
       "hash": "015a54cfed0ad870242c483001f72d051adb8542a396669eac5155be2f3de157",
@@ -844,7 +844,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "dd35bc551f65d7d6915d7ae287487c450a2201b44d5da7871a4ace9cf62a3c5a",
+    "game-0.0.1.jar": "a16d2520d21fb9517ab0a2200b777368dafc8c27c3ce48031ae407b7b11cb43f",
     "runelite-0.0.1.jar": "015a54cfed0ad870242c483001f72d051adb8542a396669eac5155be2f3de157",
     "jpackage-maven-plugin-0.1.5.jar": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
     "rs-cache-library-7.1.1.jar": "e9d5cc0169e447c4028d9d5f9c73c93d3412e0aeee5fcbe1509497bb56d2e083",
